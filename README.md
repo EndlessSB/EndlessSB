@@ -1,20 +1,14 @@
-# The Sages
+# Endlesss
 
 
-- 👋 Hi, I’m @TheSagess
+- 👋 Hi, I’m Endless
 - 👀 I’m interested in develping (duhh)
 
 
 ## Core Proejcts:
 
-- Currently most of my projects are closed, But the ones here are open and there are alot more open source to com
+- I am currently working multiple, apis and discord bots
 
-- Sole Developer of Vaje Bot
+- Working on multiple differnet private projects
 
-- Developer Of Vaje-Utils (Pre archive)
-
-- HTML / CSS / JS / Python / Java / C++ / C# Developer
-
-- Enjoying life ☕
-
-- ☕ Is life
+- Anyways have a good day :) 
