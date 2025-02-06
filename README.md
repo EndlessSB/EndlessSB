@@ -5,7 +5,7 @@
 - 👀 I’m interested in develping (duhh)
 
 
-## Core Proejcts:
+## Core Projects:
 
 - I am currently working multiple, apis and discord bots
 
